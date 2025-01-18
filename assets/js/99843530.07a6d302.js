@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[980],{4410:s=>{s.exports=JSON.parse('{"sourceUrl":"https://github.com/SCPFBluesky/Atlas-API/blob/master","baseUrl":"/Atlas-API/","classOrder":[],"apiCategories":[]}')}}]);
